@@ -1,0 +1,12 @@
+repositories:
+  - url: https://github.com/username/repo1.git
+    path: /path/to/local/storage/repo1
+    interval: 1d
+    
+  - url: https://github.com/username/repo2.git
+    path: ./storage/repo2
+    interval: 24h
+    
+  - url: ssh://github.com/username/repo3.git
+    path: C:\GitArchives\repo3
+    interval: 30m
