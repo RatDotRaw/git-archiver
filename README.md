@@ -90,6 +90,10 @@ For major changes, please open an issue first to discuss what you would like to 
 
 Don't know what to contribute, search for TODO: in the code (if there are any)!
 
+---
+
+Yes, all of this could be done in a simple cron task.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
